@@ -1,6 +1,8 @@
 # Unity-Game-Project2
 
-#obkective
+#objective
+
+
 Create an if-then statement in order to implement basic logic in your project, including the use of greater than (>) and less than (<) operators
 Transform a gameobject into a prefab that can be instantiated into the scene
 Work with prefabs to add efficiencies in your workflows
